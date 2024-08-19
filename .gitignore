@@ -4,3 +4,6 @@
 
 # Ignore the .parcel-cache directory
 .parcel-cache/
+
+# Node.js dependencies
+/node_modules/
