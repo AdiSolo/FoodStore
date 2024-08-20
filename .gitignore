@@ -7,3 +7,6 @@
 
 # Node.js dependencies
 /node_modules/
+
+# Ignore node package lock
+package-lock.json
